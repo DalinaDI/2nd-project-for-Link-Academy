@@ -11,11 +11,11 @@ class Student:
     
    
     
-student_1 = Student("Dobrescu", "Brasov, str. Vlahuta", 740505954, "English", 1)
+student_1 = Student("Dobrescu Dalina", "Brasov, str. Vlahuta", 740505954, "English", 1)
 print(student_1._getInfo())
 
-student_2 = Student("Urdea", "Campulung, str. Bratianu", 740505958, "Math", 2)
+student_2 = Student("Urdea Elena", "Campulung, str. Bratianu", 740505958, "Math", 2)
 print(student_2._getInfo())
 
-student_3 = Student("Todoru", "Bucuresti, str. Narciselor", 74050587, "Physics", 3)
+student_3 = Student("Todoru Andreea", "Bucuresti, str. Narciselor", 74050587, "Physics", 3)
 print(student_3._getInfo())
